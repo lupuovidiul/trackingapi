@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using trackingapi.Data;
+using trackingapi.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 

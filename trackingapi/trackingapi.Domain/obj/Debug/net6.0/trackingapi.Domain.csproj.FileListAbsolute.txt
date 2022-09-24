@@ -1,0 +1,12 @@
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\bin\Debug\net6.0\trackingapi.Domain.deps.json
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\bin\Debug\net6.0\trackingapi.Domain.dll
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\bin\Debug\net6.0\trackingapi.Domain.pdb
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\obj\Debug\net6.0\trackingapi.Domain.csproj.AssemblyReference.cache
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\obj\Debug\net6.0\trackingapi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\obj\Debug\net6.0\trackingapi.Domain.AssemblyInfoInputs.cache
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\obj\Debug\net6.0\trackingapi.Domain.AssemblyInfo.cs
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\obj\Debug\net6.0\trackingapi.Domain.csproj.CoreCompileInputs.cache
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\obj\Debug\net6.0\trackingapi.Domain.dll
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\obj\Debug\net6.0\refint\trackingapi.Domain.dll
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\obj\Debug\net6.0\trackingapi.Domain.pdb
+D:\VS repos\trackingapi\trackingapi\trackingapi.Domain\obj\Debug\net6.0\ref\trackingapi.Domain.dll
