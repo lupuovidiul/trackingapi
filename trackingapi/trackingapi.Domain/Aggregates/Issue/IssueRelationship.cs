@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace trackingapi.Domain
+namespace trackingapi.Domain.Aggregates.Issue
 {
-    public class IssueStatus
+    public class IssueRelationship
     {
         public Guid Id { get; set; }
         [Required]

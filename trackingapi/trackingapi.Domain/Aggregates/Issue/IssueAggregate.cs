@@ -1,7 +1,7 @@
 ﻿using trackingapi.Domain.Abstractions;
-using trackingapi.Domain.Enums;
+using trackingapi.Domain.Common.Enums;
 
-namespace trackingapi.Domain
+namespace trackingapi.Domain.Aggregates.Issue
 {
     public abstract class IssueAggregate : IAggregateRoot
     {

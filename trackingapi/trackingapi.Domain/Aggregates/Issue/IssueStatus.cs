@@ -1,12 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace trackingapi.Domain
+namespace trackingapi.Domain.Aggregates.Issue
 {
-    public class IssuePriority
+    public class IssueStatus
     {
         public Guid Id { get; set; }
         [Required]
         public string Name { get; set; }
-        public int Value { get; set; }
     }
 }

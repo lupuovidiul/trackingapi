@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace trackingapi.Domain.Enums
+namespace trackingapi.Domain.Common.Enums
 {
     public enum IssueType
     {

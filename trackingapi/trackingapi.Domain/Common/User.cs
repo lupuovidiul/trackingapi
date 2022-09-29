@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace trackingapi.Domain
+namespace trackingapi.Domain.Common
 {
     public class User
     {
