@@ -66,11 +66,9 @@ D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\trackingapi.dep
 D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\trackingapi.runtimeconfig.json
 D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\trackingapi.dll
 D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\trackingapi.pdb
-D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Humanizer.dll
 D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
@@ -124,3 +122,5 @@ D:\VS repos\trackingapi\trackingapi\trackingapi\obj\Debug\net6.0\refint\tracking
 D:\VS repos\trackingapi\trackingapi\trackingapi\obj\Debug\net6.0\trackingapi.pdb
 D:\VS repos\trackingapi\trackingapi\trackingapi\obj\Debug\net6.0\trackingapi.genruntimeconfig.cache
 D:\VS repos\trackingapi\trackingapi\trackingapi\obj\Debug\net6.0\ref\trackingapi.dll
+D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Humanizer.dll
+D:\VS repos\trackingapi\trackingapi\trackingapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

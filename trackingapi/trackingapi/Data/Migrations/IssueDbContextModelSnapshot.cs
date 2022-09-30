@@ -10,7 +10,7 @@ using trackingapi.Data;
 
 namespace trackingapi.Data.Migrations
 {
-    [DbContext(typeof(IssueDbContext))]
+    [DbContext(typeof(OldIssueDbContext))]
     partial class IssueDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

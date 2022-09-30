@@ -10,9 +10,9 @@ namespace trackingapi.Controllers
     [ApiController]
     public class IssueController : ControllerBase
     {
-        private readonly IssueDbContext _context;
+        private readonly OldIssueDbContext _context;
 
-        public IssueController(IssueDbContext context) => _context = context;
+        public IssueController(OldIssueDbContext context) => _context = context;
 
         [HttpGet]
         public async Task<IEnumerable<Issue>> Get() => await _context.Issues.ToListAsync();

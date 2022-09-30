@@ -11,7 +11,7 @@ using trackingapi.Data;
 
 namespace trackingapi.Data.Migrations
 {
-    [DbContext(typeof(IssueDbContext))]
+    [DbContext(typeof(OldIssueDbContext))]
     [Migration("20220831133659_createdatabase")]
     partial class createdatabase
     {

@@ -13,3 +13,5 @@ D:\VS repos\trackingapi\trackingapi\trackingapi.Infrastrucure\obj\Debug\net6.0\t
 D:\VS repos\trackingapi\trackingapi\trackingapi.Infrastrucure\obj\Debug\net6.0\refint\trackingapi.Infrastructure.dll
 D:\VS repos\trackingapi\trackingapi\trackingapi.Infrastrucure\obj\Debug\net6.0\trackingapi.Infrastructure.pdb
 D:\VS repos\trackingapi\trackingapi\trackingapi.Infrastrucure\obj\Debug\net6.0\ref\trackingapi.Infrastructure.dll
+D:\VS repos\trackingapi\trackingapi\trackingapi.Infrastrucure\bin\Debug\net6.0\trackingapi.Infrastructure.runtimeconfig.json
+D:\VS repos\trackingapi\trackingapi\trackingapi.Infrastrucure\obj\Debug\net6.0\trackingapi.Infrastructure.genruntimeconfig.cache
