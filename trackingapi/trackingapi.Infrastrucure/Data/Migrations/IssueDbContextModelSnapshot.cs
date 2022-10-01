@@ -8,7 +8,7 @@ using trackingapi.Infrastructure.Data;
 
 #nullable disable
 
-namespace trackingapi.Infrastructure.Migrations
+namespace trackingapi.Infrastructure.Data.Migrations
 {
     [DbContext(typeof(IssueDbContext))]
     partial class IssueDbContextModelSnapshot : ModelSnapshot

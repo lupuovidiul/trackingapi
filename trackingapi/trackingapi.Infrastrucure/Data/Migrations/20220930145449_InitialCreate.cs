@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace trackingapi.Infrastructure.Migrations
+namespace trackingapi.Infrastructure.Data.Migrations
 {
     public partial class InitialCreate : Migration
     {

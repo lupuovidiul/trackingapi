@@ -18,18 +18,22 @@ namespace trackingapi.Domain.Aggregates.Issue
         public Guid? Priority { get; set; }
         public DateTime Created { get; set; }
         public DateTime? LastEdited { get; set; }
-        public Guid? Status { get; set; } 
+        public Guid? Status { get; set; }
 
         private IssueAggregate()
         {
             Id = Guid.NewGuid();
-            Created = DateTime.UtcNow; 
+            Created = DateTime.UtcNow;
         }
 
-        public DomainResult Create()
+        public static DomainResult<IssueAggregate> Create()
         {
-            IssueAggregate newIA  = new IssueAggregate();
-            return null;
+            DomainResult<IssueAggregate> result = new DomainResult<IssueAggregate>(new IssueAggregate(), true, "Issue Aggregate Created!");
+            return result;
         }
+
+
+        // domainResult ma inspir de la proiectul lui Cioti
+        // o metoda de assignUser
     }
 }

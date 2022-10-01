@@ -9,7 +9,7 @@ using trackingapi.Infrastructure.Data;
 
 #nullable disable
 
-namespace trackingapi.Infrastructure.Migrations
+namespace trackingapi.Infrastructure.Data.Migrations
 {
     [DbContext(typeof(IssueDbContext))]
     [Migration("20220930145449_InitialCreate")]
